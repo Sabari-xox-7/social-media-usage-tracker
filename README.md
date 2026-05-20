@@ -24,5 +24,5 @@ python social_media_tracker.py
 | CO5 | File & Exception Handling |
 
 ## 👨‍💻 Author
-Your Name — Roll No. — College Name# social-media-usage-tracker
+sabari — 25cb037 — #dr.n.g.p institute of technology social-media-usage-tracker
  A Python project to track and limit social media usage
